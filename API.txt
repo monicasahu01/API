@@ -1,0 +1,6 @@
+What is a Web API? Differentiate between API and Web API.
+
+API is an interface that exposes an application's data to outside software, 
+whereas web applications are one type of API with stricter requirements. 
+These requirements include network communication, 
+SOAP as the primary protocol, and less accessibility for the public
